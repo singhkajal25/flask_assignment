@@ -27,7 +27,7 @@ Version Control: Git
 
 
  
- ### 🗃️ MySQL Database Details
+ ###  MySQL Database Details
 
 - Database Name: `users`
 - Table: `users`

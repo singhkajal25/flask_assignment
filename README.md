@@ -65,7 +65,7 @@ SELECT * FROM users WHERE id = 1;
 List the Flask routes:
 
 ```markdown
-### 🌐 Routes Implemented
+###  Routes Implemented
 
 - `/hello` → returns “Hello World!”
 - `/users` → displays all users in an HTML table
